@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0977-squares-of-a-sorted-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/LuciferAksh/Training-1-NEW/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0189-rotate-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/LuciferAksh/Training-1-NEW/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
 | ------- |
