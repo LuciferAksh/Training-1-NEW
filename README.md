@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0724-find-pivot-index) |
@@ -36,4 +37,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
