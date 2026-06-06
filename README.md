@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
@@ -26,8 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
