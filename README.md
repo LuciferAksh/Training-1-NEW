@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0704-binary-search](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
@@ -14,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/LuciferAksh/Training-1-NEW/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
